@@ -79,41 +79,121 @@ def collect_problems():
     )
 
 
+
 def generate_section(problems):
+    target = 150
+    solved = len(problems)
+    topics = sorted({p["topic"] for p in problems})
+    progress = min(100, round(solved / target * 100))
+    filled = round(progress / 100 * 20)
+    bar = "█" * filled + "░" * (20 - filled)
+
     lines = [
-        "## NeetCode Progress",
+        '<div align="center">',
         "",
-        f"**Total solved: {len(problems)} unique problems**",
+        "# NeetCode Solutions",
+        "",
+        "### Data Structures & Algorithms",
+        "",
+        "My coding interview preparation journey.",
+        "",
+        f'<img src="https://img.shields.io/badge/NeetCode-150-0ea5e9?style=for-the-badge" alt="NeetCode 150">',
+        f'<img src="https://img.shields.io/badge/Solutions-{solved}-22c55e?style=for-the-badge" alt="Solutions">',
+        f'<img src="https://img.shields.io/badge/Topics-{len(topics)}-8b5cf6?style=for-the-badge" alt="Topics">',
+        "",
+        "</div>",
+        "",
+        "---",
+        "",
+        "## 📊 Progress Overview",
+        "",
+        "| Metric | Progress |",
+        "|:--|--:|",
+        f"| Problems solved | **{solved} / {target}** |",
+        f"| Completion | **{progress}%** |",
+        f"| Topics practiced | **{len(topics)}** |",
+        "",
+        f"`{bar}` **{progress}%**",
+        "",
+        "> Progress is generated automatically from the solution files in this repository.",
+        "",
+        "---",
+        "",
+        "## 🧠 Problem Solutions",
+        "",
+        "Browse the solutions by topic. Select a solution to view its source files.",
+        "",
+        "## 📚 Table of Contents",
         "",
     ]
 
-    topics = sorted({p["topic"] for p in problems})
+    for i, topic in enumerate(topics, start=1):
+        count = sum(p["topic"] == topic for p in problems)
+        anchor = re.sub(r"[^a-z0-9 -]", "", topic.lower())
+        anchor = re.sub(r"\s+", "-", anchor.strip())
+        lines.append(
+            f"{i}. [{topic}](#{anchor}) — **{count} problems**"
+        )
+
+    lines.extend(["", "---", ""])
 
     for topic in topics:
         group = [p for p in problems if p["topic"] == topic]
-
         lines.extend([
-            f"### {topic} ({len(group)})",
+            f"## {topic}",
             "",
-            "| Problem | Language | Solution |",
-            "|---|---|---|",
+            f"**{len(group)} problems solved**",
+            "",
+            "| # | Problem | Language | Source |",
+            "|--:|:--|:--|:--|",
         ])
 
-        for problem in group:
+        for i, problem in enumerate(group, start=1):
             path = quote(
                 problem["path"].relative_to(ROOT).as_posix(),
                 safe="/",
             )
             languages = ", ".join(sorted(problem["languages"]))
-
             lines.append(
-                f"| {problem['name']} | {languages} "
-                f"| [View solution]({path}/) |"
+                f"| {i} | {problem['name']} | {languages} "
+                f"| [View code ↗]({path}/) |"
             )
 
         lines.append("")
 
+    lines.extend([
+        "---",
+        "",
+        "## 🛠️ Repository Structure",
+        "",
+        "```text",
+        "Data Structures & Algorithms/",
+        "├── Topic/",
+        "│   └── Problem/",
+        "│       └── submission-0.ext",
+        "scripts/",
+        "└── update_readme.py",
+        ".github/",
+        "└── workflows/",
+        "    └── update-readme.yml",
+        "```",
+        "",
+        "## 🔄 Automatic Updates",
+        "",
+        "- Solutions are organized by topic and problem.",
+        "- GitHub Actions regenerates this README when solution files change.",
+        "- Multiple submissions for one problem are counted as one problem.",
+        "",
+        "<div align=\"center\">",
+        "",
+        "Made with 💻 and consistency.",
+        "",
+        "</div>",
+        "",
+    ])
+
     return "\n".join(lines).rstrip()
+
 
 
 def main():
