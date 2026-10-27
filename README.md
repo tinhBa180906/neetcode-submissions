@@ -81,7 +81,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 My coding interview preparation journey.
 
 <img src="https://img.shields.io/badge/NeetCode-150-0ea5e9?style=for-the-badge" alt="NeetCode 150">
-<img src="https://img.shields.io/badge/Solutions-62-22c55e?style=for-the-badge" alt="Solutions">
+<img src="https://img.shields.io/badge/Solutions-63-22c55e?style=for-the-badge" alt="Solutions">
 <img src="https://img.shields.io/badge/Topics-1-8b5cf6?style=for-the-badge" alt="Topics">
 
 </div>
@@ -92,11 +92,11 @@ My coding interview preparation journey.
 
 | Metric | Progress |
 |:--|--:|
-| Problems solved | **62 / 150** |
-| Completion | **41%** |
+| Problems solved | **63 / 150** |
+| Completion | **42%** |
 | Topics practiced | **1** |
 
-`████████░░░░░░░░░░░░` **41%**
+`████████░░░░░░░░░░░░` **42%**
 
 > Progress is generated automatically from the solution files in this repository.
 
@@ -108,13 +108,13 @@ Browse the solutions by topic. Select a solution to view its source files.
 
 ## 📚 Table of Contents
 
-1. [Data Structures & Algorithms](#data-structures-algorithms) — **62 problems**
+1. [Data Structures & Algorithms](#data-structures-algorithms) — **63 problems**
 
 ---
 
 ## Data Structures & Algorithms
 
-**62 problems solved**
+**63 problems solved**
 
 | # | Problem | Language | Source |
 |--:|:--|:--|:--|
@@ -179,7 +179,8 @@ Browse the solutions by topic. Select a solution to view its source files.
 | 59 | Three Integer Sum | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/three-integer-sum/) |
 | 60 | Two Integer Sum | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/two-integer-sum/) |
 | 61 | Two Integer Sum Ii | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/) |
-| 62 | Validate Parentheses | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/validate-parentheses/) |
+| 62 | Valid Perfect Square | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/valid-perfect-square/) |
+| 63 | Validate Parentheses | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/validate-parentheses/) |
 
 ---
 
