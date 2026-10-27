@@ -81,7 +81,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 My coding interview preparation journey.
 
 <img src="https://img.shields.io/badge/NeetCode-150-0ea5e9?style=for-the-badge" alt="NeetCode 150">
-<img src="https://img.shields.io/badge/Solutions-64-22c55e?style=for-the-badge" alt="Solutions">
+<img src="https://img.shields.io/badge/Solutions-65-22c55e?style=for-the-badge" alt="Solutions">
 <img src="https://img.shields.io/badge/Topics-1-8b5cf6?style=for-the-badge" alt="Topics">
 
 </div>
@@ -92,7 +92,7 @@ My coding interview preparation journey.
 
 | Metric | Progress |
 |:--|--:|
-| Problems solved | **64 / 150** |
+| Problems solved | **65 / 150** |
 | Completion | **43%** |
 | Topics practiced | **1** |
 
@@ -108,13 +108,13 @@ Browse the solutions by topic. Select a solution to view its source files.
 
 ## 📚 Table of Contents
 
-1. [Data Structures & Algorithms](#data-structures-algorithms) — **64 problems**
+1. [Data Structures & Algorithms](#data-structures-algorithms) — **65 problems**
 
 ---
 
 ## Data Structures & Algorithms
 
-**64 problems solved**
+**65 problems solved**
 
 | # | Problem | Language | Source |
 |--:|:--|:--|:--|
@@ -174,14 +174,15 @@ Browse the solutions by topic. Select a solution to view its source files.
 | 54 | Sort Array By Increasing Frequency | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/sort-array-by-increasing-frequency/) |
 | 55 | Sort Array By Parity | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/sort-array-by-parity/) |
 | 56 | Sort The People | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/sort-the-people/) |
-| 57 | String Encode And Decode | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/string-encode-and-decode/) |
-| 58 | Subtree Of A Binary Tree | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/subtree-of-a-binary-tree/) |
-| 59 | Symmetric Tree | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/symmetric-tree/) |
-| 60 | Three Integer Sum | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/three-integer-sum/) |
-| 61 | Two Integer Sum | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/two-integer-sum/) |
-| 62 | Two Integer Sum Ii | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/) |
-| 63 | Valid Perfect Square | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/valid-perfect-square/) |
-| 64 | Validate Parentheses | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/validate-parentheses/) |
+| 57 | Special Array I | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/special-array-i/) |
+| 58 | String Encode And Decode | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/string-encode-and-decode/) |
+| 59 | Subtree Of A Binary Tree | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/subtree-of-a-binary-tree/) |
+| 60 | Symmetric Tree | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/symmetric-tree/) |
+| 61 | Three Integer Sum | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/three-integer-sum/) |
+| 62 | Two Integer Sum | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/two-integer-sum/) |
+| 63 | Two Integer Sum Ii | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/) |
+| 64 | Valid Perfect Square | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/valid-perfect-square/) |
+| 65 | Validate Parentheses | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/validate-parentheses/) |
 
 ---
 
