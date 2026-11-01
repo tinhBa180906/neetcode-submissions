@@ -81,7 +81,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 My coding interview preparation journey.
 
 <img src="https://img.shields.io/badge/NeetCode-150-0ea5e9?style=for-the-badge" alt="NeetCode 150">
-<img src="https://img.shields.io/badge/Solutions-69-22c55e?style=for-the-badge" alt="Solutions">
+<img src="https://img.shields.io/badge/Solutions-70-22c55e?style=for-the-badge" alt="Solutions">
 <img src="https://img.shields.io/badge/Topics-1-8b5cf6?style=for-the-badge" alt="Topics">
 
 </div>
@@ -92,11 +92,11 @@ My coding interview preparation journey.
 
 | Metric | Progress |
 |:--|--:|
-| Problems solved | **69 / 150** |
-| Completion | **46%** |
+| Problems solved | **70 / 150** |
+| Completion | **47%** |
 | Topics practiced | **1** |
 
-`█████████░░░░░░░░░░░` **46%**
+`█████████░░░░░░░░░░░` **47%**
 
 > Progress is generated automatically from the solution files in this repository.
 
@@ -108,13 +108,13 @@ Browse the solutions by topic. Select a solution to view its source files.
 
 ## 📚 Table of Contents
 
-1. [Data Structures & Algorithms](#data-structures-algorithms) — **69 problems**
+1. [Data Structures & Algorithms](#data-structures-algorithms) — **70 problems**
 
 ---
 
 ## Data Structures & Algorithms
 
-**69 problems solved**
+**70 problems solved**
 
 | # | Problem | Language | Source |
 |--:|:--|:--|:--|
@@ -177,16 +177,17 @@ Browse the solutions by topic. Select a solution to view its source files.
 | 57 | Sort Array By Parity | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/sort-array-by-parity/) |
 | 58 | Sort The People | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/sort-the-people/) |
 | 59 | Special Array I | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/special-array-i/) |
-| 60 | String Encode And Decode | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/string-encode-and-decode/) |
-| 61 | Subtree Of A Binary Tree | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/subtree-of-a-binary-tree/) |
-| 62 | Symmetric Tree | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/symmetric-tree/) |
-| 63 | Three Integer Sum | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/three-integer-sum/) |
-| 64 | Two Integer Sum | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/two-integer-sum/) |
-| 65 | Two Integer Sum Ii | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/) |
-| 66 | Ugly Number | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/ugly-number/) |
-| 67 | Uncommon Words From Two Sentences | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/uncommon-words-from-two-sentences/) |
-| 68 | Valid Perfect Square | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/valid-perfect-square/) |
-| 69 | Validate Parentheses | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/validate-parentheses/) |
+| 60 | Squares Of A Sorted Array | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/squares-of-a-sorted-array/) |
+| 61 | String Encode And Decode | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/string-encode-and-decode/) |
+| 62 | Subtree Of A Binary Tree | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/subtree-of-a-binary-tree/) |
+| 63 | Symmetric Tree | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/symmetric-tree/) |
+| 64 | Three Integer Sum | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/three-integer-sum/) |
+| 65 | Two Integer Sum | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/two-integer-sum/) |
+| 66 | Two Integer Sum Ii | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/) |
+| 67 | Ugly Number | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/ugly-number/) |
+| 68 | Uncommon Words From Two Sentences | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/uncommon-words-from-two-sentences/) |
+| 69 | Valid Perfect Square | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/valid-perfect-square/) |
+| 70 | Validate Parentheses | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/validate-parentheses/) |
 
 ---
 
