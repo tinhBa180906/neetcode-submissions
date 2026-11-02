@@ -81,7 +81,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 My coding interview preparation journey.
 
 <img src="https://img.shields.io/badge/NeetCode-150-0ea5e9?style=for-the-badge" alt="NeetCode 150">
-<img src="https://img.shields.io/badge/Solutions-70-22c55e?style=for-the-badge" alt="Solutions">
+<img src="https://img.shields.io/badge/Solutions-71-22c55e?style=for-the-badge" alt="Solutions">
 <img src="https://img.shields.io/badge/Topics-1-8b5cf6?style=for-the-badge" alt="Topics">
 
 </div>
@@ -92,7 +92,7 @@ My coding interview preparation journey.
 
 | Metric | Progress |
 |:--|--:|
-| Problems solved | **70 / 150** |
+| Problems solved | **71 / 150** |
 | Completion | **47%** |
 | Topics practiced | **1** |
 
@@ -108,13 +108,13 @@ Browse the solutions by topic. Select a solution to view its source files.
 
 ## 📚 Table of Contents
 
-1. [Data Structures & Algorithms](#data-structures-algorithms) — **70 problems**
+1. [Data Structures & Algorithms](#data-structures-algorithms) — **71 problems**
 
 ---
 
 ## Data Structures & Algorithms
 
-**70 problems solved**
+**71 problems solved**
 
 | # | Problem | Language | Source |
 |--:|:--|:--|:--|
@@ -132,62 +132,63 @@ Browse the solutions by topic. Select a solution to view its source files.
 | 12 | Check If Array Is Sorted And Rotated | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/check-if-array-is-sorted-and-rotated/) |
 | 13 | Concatenation Of Array | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/concatenation-of-array/) |
 | 14 | Convert Sorted Array To Binary Search Tree | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/convert-sorted-array-to-binary-search-tree/) |
-| 15 | Daily Temperatures | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/daily-temperatures/) |
-| 16 | Delete Node In A Bst | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/delete-node-in-a-bst/) |
-| 17 | Depth Of Binary Tree | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/depth-of-binary-tree/) |
-| 18 | Divide Array Into Equal Pairs | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/divide-array-into-equal-pairs/) |
-| 19 | Duplicate Integer | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/duplicate-integer/) |
-| 20 | Evaluate Reverse Polish Notation | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/evaluate-reverse-polish-notation/) |
-| 21 | Find All Numbers Disappeared In An Array | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/find-all-numbers-disappeared-in-an-array/) |
-| 22 | Find Duplicate Integer | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/find-duplicate-integer/) |
-| 23 | Find Lucky Integer In An Array | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/find-lucky-integer-in-an-array/) |
-| 24 | Find Minimum In Rotated Sorted Array | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/find-minimum-in-rotated-sorted-array/) |
-| 25 | Find Missing And Repeated Values | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/find-missing-and-repeated-values/) |
-| 26 | Find Pivot Index | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/find-pivot-index/) |
-| 27 | Find Target In Rotated Sorted Array | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/find-target-in-rotated-sorted-array/) |
-| 28 | Find The Index Of The First Occurrence In A String | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/find-the-index-of-the-first-occurrence-in-a-string/) |
-| 29 | Height Checker | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/height-checker/) |
-| 30 | Invert A Binary Tree | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/invert-a-binary-tree/) |
-| 31 | Is Anagram | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/is-anagram/) |
-| 32 | Is Palindrome | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/is-palindrome/) |
-| 33 | Last Stone Weight | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/last-stone-weight/) |
-| 34 | Linked List Cycle Detection | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/linked-list-cycle-detection/) |
-| 35 | Majority Element | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/majority-element/) |
-| 36 | Max Consecutive Ones | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/max-consecutive-ones/) |
-| 37 | Max Water Container | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/max-water-container/) |
-| 38 | Maximum Ascending Subarray Sum | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/maximum-ascending-subarray-sum/) |
-| 39 | Maximum Product Difference Between Two Pairs | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/maximum-product-difference-between-two-pairs/) |
-| 40 | Minimum Stack | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/minimum-stack/) |
-| 41 | Monotonic Array | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/monotonic-array/) |
-| 42 | Next Greater Element I | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/next-greater-element-i/) |
-| 43 | Number Of Good Pairs | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/number-of-good-pairs/) |
-| 44 | Number Of Senior Citizens | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/number-of-senior-citizens/) |
-| 45 | Path Sum | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/path-sum/) |
-| 46 | Products Of Array Discluding Self | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/products-of-array-discluding-self/) |
-| 47 | Ransom Note | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/ransom-note/) |
-| 48 | Remove Node From End Of Linked List | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/remove-node-from-end-of-linked-list/) |
-| 49 | Reorder Linked List | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/reorder-linked-list/) |
-| 50 | Same Binary Tree | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/same-binary-tree/) |
-| 51 | Score Of A String | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/score-of-a-string/) |
-| 52 | Search 2D Matrix | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/search-2d-matrix/) |
-| 53 | Sign Of The Product Of An Array | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/sign-of-the-product-of-an-array/) |
-| 54 | Single Number | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/single-number/) |
-| 55 | Singlylinkedlist | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/singlyLinkedList/) |
-| 56 | Sort Array By Increasing Frequency | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/sort-array-by-increasing-frequency/) |
-| 57 | Sort Array By Parity | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/sort-array-by-parity/) |
-| 58 | Sort The People | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/sort-the-people/) |
-| 59 | Special Array I | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/special-array-i/) |
-| 60 | Squares Of A Sorted Array | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/squares-of-a-sorted-array/) |
-| 61 | String Encode And Decode | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/string-encode-and-decode/) |
-| 62 | Subtree Of A Binary Tree | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/subtree-of-a-binary-tree/) |
-| 63 | Symmetric Tree | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/symmetric-tree/) |
-| 64 | Three Integer Sum | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/three-integer-sum/) |
-| 65 | Two Integer Sum | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/two-integer-sum/) |
-| 66 | Two Integer Sum Ii | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/) |
-| 67 | Ugly Number | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/ugly-number/) |
-| 68 | Uncommon Words From Two Sentences | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/uncommon-words-from-two-sentences/) |
-| 69 | Valid Perfect Square | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/valid-perfect-square/) |
-| 70 | Validate Parentheses | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/validate-parentheses/) |
+| 15 | Count The Number Of Consistent Strings | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/count-the-number-of-consistent-strings/) |
+| 16 | Daily Temperatures | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/daily-temperatures/) |
+| 17 | Delete Node In A Bst | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/delete-node-in-a-bst/) |
+| 18 | Depth Of Binary Tree | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/depth-of-binary-tree/) |
+| 19 | Divide Array Into Equal Pairs | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/divide-array-into-equal-pairs/) |
+| 20 | Duplicate Integer | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/duplicate-integer/) |
+| 21 | Evaluate Reverse Polish Notation | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/evaluate-reverse-polish-notation/) |
+| 22 | Find All Numbers Disappeared In An Array | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/find-all-numbers-disappeared-in-an-array/) |
+| 23 | Find Duplicate Integer | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/find-duplicate-integer/) |
+| 24 | Find Lucky Integer In An Array | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/find-lucky-integer-in-an-array/) |
+| 25 | Find Minimum In Rotated Sorted Array | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/find-minimum-in-rotated-sorted-array/) |
+| 26 | Find Missing And Repeated Values | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/find-missing-and-repeated-values/) |
+| 27 | Find Pivot Index | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/find-pivot-index/) |
+| 28 | Find Target In Rotated Sorted Array | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/find-target-in-rotated-sorted-array/) |
+| 29 | Find The Index Of The First Occurrence In A String | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/find-the-index-of-the-first-occurrence-in-a-string/) |
+| 30 | Height Checker | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/height-checker/) |
+| 31 | Invert A Binary Tree | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/invert-a-binary-tree/) |
+| 32 | Is Anagram | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/is-anagram/) |
+| 33 | Is Palindrome | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/is-palindrome/) |
+| 34 | Last Stone Weight | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/last-stone-weight/) |
+| 35 | Linked List Cycle Detection | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/linked-list-cycle-detection/) |
+| 36 | Majority Element | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/majority-element/) |
+| 37 | Max Consecutive Ones | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/max-consecutive-ones/) |
+| 38 | Max Water Container | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/max-water-container/) |
+| 39 | Maximum Ascending Subarray Sum | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/maximum-ascending-subarray-sum/) |
+| 40 | Maximum Product Difference Between Two Pairs | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/maximum-product-difference-between-two-pairs/) |
+| 41 | Minimum Stack | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/minimum-stack/) |
+| 42 | Monotonic Array | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/monotonic-array/) |
+| 43 | Next Greater Element I | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/next-greater-element-i/) |
+| 44 | Number Of Good Pairs | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/number-of-good-pairs/) |
+| 45 | Number Of Senior Citizens | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/number-of-senior-citizens/) |
+| 46 | Path Sum | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/path-sum/) |
+| 47 | Products Of Array Discluding Self | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/products-of-array-discluding-self/) |
+| 48 | Ransom Note | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/ransom-note/) |
+| 49 | Remove Node From End Of Linked List | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/remove-node-from-end-of-linked-list/) |
+| 50 | Reorder Linked List | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/reorder-linked-list/) |
+| 51 | Same Binary Tree | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/same-binary-tree/) |
+| 52 | Score Of A String | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/score-of-a-string/) |
+| 53 | Search 2D Matrix | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/search-2d-matrix/) |
+| 54 | Sign Of The Product Of An Array | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/sign-of-the-product-of-an-array/) |
+| 55 | Single Number | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/single-number/) |
+| 56 | Singlylinkedlist | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/singlyLinkedList/) |
+| 57 | Sort Array By Increasing Frequency | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/sort-array-by-increasing-frequency/) |
+| 58 | Sort Array By Parity | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/sort-array-by-parity/) |
+| 59 | Sort The People | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/sort-the-people/) |
+| 60 | Special Array I | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/special-array-i/) |
+| 61 | Squares Of A Sorted Array | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/squares-of-a-sorted-array/) |
+| 62 | String Encode And Decode | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/string-encode-and-decode/) |
+| 63 | Subtree Of A Binary Tree | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/subtree-of-a-binary-tree/) |
+| 64 | Symmetric Tree | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/symmetric-tree/) |
+| 65 | Three Integer Sum | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/three-integer-sum/) |
+| 66 | Two Integer Sum | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/two-integer-sum/) |
+| 67 | Two Integer Sum Ii | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/) |
+| 68 | Ugly Number | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/ugly-number/) |
+| 69 | Uncommon Words From Two Sentences | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/uncommon-words-from-two-sentences/) |
+| 70 | Valid Perfect Square | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/valid-perfect-square/) |
+| 71 | Validate Parentheses | Java | [View code ↗](Data%20Structures%20%26%20Algorithms/validate-parentheses/) |
 
 ---
 
